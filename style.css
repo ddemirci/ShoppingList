@@ -1,0 +1,18 @@
+body{
+  background-image: url(background.jpg);
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;}
+
+h1{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+li{
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+.done {
+  text-decoration: line-through;
+}
